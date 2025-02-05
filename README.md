@@ -6,6 +6,9 @@ This task focuses on ensuring the dataset is clean, reliable, and ready for furt
 Prepare raw marketing data for analysis by addressing data quality issues and creating a new feature, short_title, for improved SEO and readability. The task involves resolving data quality issues like missing values and duplicates, standardizing data formats, and generating concise product titles for better marketing impact
 
 ##  Dataset Familiarization
+
+![image](https://github.com/user-attachments/assets/78f6ac08-92fc-41ce-b34f-206ada584ab1)
+
 - **PRODUCTID:** Unique identifier for each product.
 - **TITLE:** Brief title or name of the product.
 - **BULLET_POINTS:** Key features or highlights of the product, often listed in bullet format.
@@ -55,35 +58,25 @@ Python (jupyter notebook)
 - **Numerical Columns (PRODUCTTYPEID, ProductLength):** Filled with the median to reduce outlier impact.
 - **Text Columns (BULLET_POINTS, DESCRIPTION):** Filled with the mode (most common value) for consistency.
 
+![image](https://github.com/user-attachments/assets/989213ee-1c94-4aac-8910-ddbb5de9b038)
 
 
+**Removing Duplicates**
 
+![image](https://github.com/user-attachments/assets/92918742-49a3-4d5c-bdab-06615998e406)
 
+**Standardizing Data**
 
+![image](https://github.com/user-attachments/assets/7d0f477b-428b-4db3-b263-e2db4e714f6c)
 
+- Rename columns for clarity
 
+![image](https://github.com/user-attachments/assets/747b8c35-790c-47b1-9fd9-d4a842688f53)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Data Preparation:**
+- Convert the columns title, description, and bullet_point to the categorical data type for efficiency.
+**Rounding Values:**
+- The product_length column values are rounded to two decimal places to improve readability and consistency.
 
 
 
