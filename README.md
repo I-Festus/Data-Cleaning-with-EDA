@@ -78,9 +78,26 @@ Python (jupyter notebook)
 **Rounding Values:**
 - The product_length column values are rounded to two decimal places to improve readability and consistency.
 
+**Creating the short_title Feature**
 
+![Screenshot 2025-02-05 113350](https://github.com/user-attachments/assets/af201fd9-e9b3-41a5-b169-315eb7adb8ce)
 
+**Objective:** Generate concise product titles for SEO and readability.
 
+**Steps:**
 
+Analyze the original Product Title column to identify key components (e.g., product name, category, attributes).
 
+Remove redundant phrases (e.g., "includes," "set of," "features").
 
+Limit titles to 50 characters, focusing on essential details and keywords.
+
+![image](https://github.com/user-attachments/assets/7beb9c8f-9348-4dd4-a808-e62463371a29)
+
+**Drop title column**
+
+![image](https://github.com/user-attachments/assets/16a0b5af-247d-4b02-a10a-1a4599388299)
+
+## Clean Data
+
+![image](https://github.com/user-attachments/assets/13c0f917-d047-492b-859b-f85dfdbce6d3)
