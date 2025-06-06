@@ -1,6 +1,9 @@
 # Data cleaning using EDA
 ### Leveraging Python to Clean and Prepare Marketing Data While Creating SEO-Optimized Short Titles for Enhanced Product Insights
+
 ![image](https://github.com/user-attachments/assets/01094ee3-a078-40cb-84af-3037cd1ba071)
+
+
 Disclaimer⚠️: This project uses dummy data and does not include any real, proprietary, or sensitive information. It is designed to demonstrate my ability to clean and prepare marketing data using Python, including the creation of SEO-optimized short titles.
 
 
