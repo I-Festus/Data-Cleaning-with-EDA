@@ -109,3 +109,9 @@ Limit titles to 50 characters, focusing on essential details and keywords.
 ## Clean Data
 
 ![image](https://github.com/user-attachments/assets/13c0f917-d047-492b-859b-f85dfdbce6d3)
+
+# Thank you
+
+For more information, you can contact me
+
+![1744659](https://github.com/user-attachments/assets/17caa157-ecfd-4f5a-82c2-11ad5ee04f8d)
